@@ -1,0 +1,422 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sunnyside_Frontend</title>
+    <link rel ="stylesheet" href ="./style.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" 
+     integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous" >
+     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+     <script src="https://kit.fontawesome.com/a076d05399.js"></script>
+</head>
+<body>
+    <div class="container-fluid">
+        <div class ="topper">
+        <div class="row">
+            <div class="col-6 sun" >
+        <h4>Sunnyside</h4>
+            </div>
+            <div class="col-6 rightend" >
+                <div>About</div>
+                <div>Services</div>
+                <div>Projects</div>
+                <div >
+                   <button class="contact">CONTACT</button>
+                </div>
+            </div>
+            
+        </div>
+    </div>
+</div>
+ 
+      <div class = "container-fluid heading">                    
+                <h1 class="head">WE ARE CREATIVES</h1>            
+      </div>
+
+      <div class ="container-fluid firstimage">
+          <img class ="imageorange" src="iconorange.jpg"/>
+      </div>
+
+      <div class="container-fluid firstgrid">
+        <div class="row content">
+          <div class="col col1">
+            <h3 class="para">Transform your <br>brand</h3>
+            <p>
+                We are full-service creative agency specializing in <br>
+                helping brands grow fast. Engage your clients through<br>
+                compelling visuals that do most of the marketing for you.
+            </p>
+            <p class ="pa">LEARN MORE</p>
+          </div>
+          <div class="col col2">
+            <img class= "imageegg" src="iconegg.jpg"/>
+          </div>
+        </div>
+      </div>
+      <div class="container-fluid ">
+        <div class="row content">
+          <div class="col col3">
+            <img class= "imageglass" src="iconglass.jpg"/>
+          </div>
+          <div class="col col4">
+            <h3 class="para">Stand out to the right <br>audience</h3>
+            <p>
+               Using a collabrative formula of designers, researchers, <br>
+               photographers, videographers and copywriters, We will<br>
+                build and extend your brand in digital places.
+            </p>
+            <p class ="pa">LEARN MORE</p>
+          </div>
+          </div>
+        </div>
+      </div>
+      <div class="container-fluid ">
+        <div class="row ">
+          <div class="col col5">
+            <img class= "imagecherry" src="iconcherry.jpg"/>
+            <div class="middlepara">
+                <h4 class="para">Graphic Design</h4>
+            <p>
+              Great design makes you memorable. We deliver<br>
+              artwork that underscores your brand message<br>
+              and captures potential clients attention. 
+            </p>
+            
+            </div>
+            
+          </div>
+          <div class="col col6">
+            <img class= "imageorangeleaves" src="iconorangeleaves.jpg"/>
+            <div class="middlepara">
+                <h4 class="para">Photography</h4>
+            <p>
+              Increase your credibility by getting the most<br>
+              stunning, high-quality photos that improve your<br>
+              business image.
+            </p>
+            
+            </div>
+          </div>
+          </div>
+        </div>
+      </div>
+      <div class = "container-fluid clienthead">                    
+        <h1 class="clients">CLIENT TESTIMONIALS</h1>            
+</div>
+      <div class="container-fluid">
+        <div class="row clientrow">
+          <div class="col">
+            <img class ="clientimages" src="icongirl1.jpg"/>
+            <p class="clientpara">We put our trust in Sunnyside and they <br>
+            delivered, making sure our needs were met <br>
+        and deadlines were always hit.</p>
+        <h4 class="clientpara">Emily R.</h4>
+        <p class="opa">Marketing Director</p>
+            </div>
+          <div class="col">
+            <img class ="clientimages" src="iconmale1.jpg"/>
+            <p class="clientpara">Sunnyside's enthusiasm coupled with their  <br>
+                keen interest in our brand's success made it  <br>
+            a satisfying and enjoyable experience.</p>
+            <h4 class="clientpara">Thomas S.</h4>
+            <p class="opa">Chief Operating Officer</p>
+          </div>
+          <div class="col">
+            <img class ="clientimages" src="icongirl2.jpg"/>
+            <p class="clientpara">Incredible end result! Our sales increased <br>
+               over 400% when we worked with Sunnyside. <br>
+            Highly recommended!.</p>
+            <h4 class="clientpara">Jennie F.</h4>
+            <p class="opa">Business Owner</p>
+          </div>
+        </div>
+      </div>
+      <div class="container-fluid">
+        <div class="row fourimagerow">
+          <div class="col">
+           <img class ="fourimage"src="iconmilkbottle.jpg"/>
+          </div>
+          <div class="col">
+           <img class ="fourimage" src="iconhalfboiled.jpg"/>
+          </div>
+          <div class="col">
+           <img class ="fourimage" src="iconcone.jpg"/>
+          </div>
+          <div class="col">
+           <img class ="fourimage" src="iconcubes.jpg"/>
+          </div>
+        </div>
+      </div>
+      <div class="container-fluid endpart">
+          <h4 class="sunend">Sunnyside</h4></div>
+         <div class="end">
+             <div class="about">About</div>
+         <div class="about">Services</div>
+         <div class="about">Projects</div>
+      </div>
+      <div class="container-fluid  socialmedia">
+        <i class="fab fa-facebook social"></i>
+        <i class="fab fa-twitter-square social"></i>
+        <i class="fab fa-instagram social"></i>
+        <i class="fab fa-pinterest social"></i>
+       
+      </div>
+
+
+
+
+
+
+    <script src="script.js"></script>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" 
+        integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" 
+        crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" 
+        integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"
+        crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.min.js" 
+        integrity="sha384-+YQ4JLhjyBLPDQt//I+STsc9iw4uQqACwlvpslubQzn4u2UU2UFM80nGisd026JF"
+        crossorigin="anonymous"></script>
+</body>
+</html>
+
+CSS
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Bebas+Neue&display=swap');
+
+
+
+*
+{
+    padding:0;
+    margin:0;
+}
+.sun
+{
+    display: flex;
+    justify-content: flex-start;
+    background-color:#14E6E1;
+    color: white;
+    margin-top: 1rem;
+    font-weight: bold;
+    font-family: 'Dancing Script', cursive;
+}
+.rightend
+{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #14E6E1;
+    color: white;
+    margin-top: 1rem;
+font-size: 15px;
+}
+.contact
+{
+    background-color: white;
+    color: black;
+    border-radius: 20px;
+  
+}
+.heading
+{
+    display: flex;
+    justify-content:center;
+    background-color:#14E6E1 ;
+    color: white;
+    text-align: center;
+    
+}
+.head
+{
+    margin-top: 4rem;
+    font-family: 'Anton', sans-serif;
+
+}
+.firstimage
+{
+    display: flex;
+    justify-content: center;
+    background-color: #14E6E1;
+    
+}
+.imageorange
+{
+    margin-top: 4rem;
+    height:50vh;
+    border-radius: 2rem;;
+}
+.para
+{
+    margin-top: 2rem;
+    font-family :'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 3rem;
+}
+.pa
+{
+    font-family :'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 1.2rem;
+
+}
+.content
+{
+    text-align: center;
+}
+.col1
+{
+    margin-top: 2rem;
+     
+}
+.col2 
+{
+    background-color: yellow;
+}
+.col3
+{
+    background-color: palevioletred;
+}
+.imageegg
+{
+    
+    height: 50vh;
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}  
+
+.imageglass
+{
+   
+    height: 50vh;
+    margin-left: 2rem;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}  
+.col4
+{
+    margin-top: 2rem;
+      
+}
+.imagecherry
+{
+    height: 50vh;
+    margin-left: 2rem;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.imageorangeleaves
+{
+    height: 50vh;
+    margin-left: 2rem;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.col5
+{
+    background-color: #46EECC;
+}
+.col6
+{
+    background-color: #A0F89A;
+}
+.middlepara
+{
+   text-align: center;
+}
+.clients
+{
+    margin-top: 4rem;
+    font-size: 2rem;
+   
+}.clienthead
+{
+    display: flex;
+    justify-content:center;
+    background-color:white ;
+    text-align: center;
+    opacity: 0.5;
+}
+
+.clientrow
+{
+    margin-top: 4rem;
+}
+.clientimages
+{
+    height:20vh;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+ border-radius: 50%;    
+}
+.clientpara
+{
+    margin-top: 2rem;
+   text-align: center;
+   font-family: 'Work Sans', sans-serif;
+   
+}
+.opa
+{
+    opacity: 0.5;
+    text-align: center;
+    font-family: 'Work Sans', sans-serif;
+}
+.fourimagerow
+{
+    margin-top: 4rem;
+    background-color:#CD3CD9;
+}
+.fourimage
+{
+height: 50vh;
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+.endpart
+{
+
+    background-color: #97B5DD;
+    display: flex;
+    justify-content: center;
+   
+}
+.sunend
+{
+    margin-top: 3rem;    
+    font-family: 'Dancing Script', cursive;
+    opacity: 0.5;
+    font-weight: bold;
+}
+.end
+{
+    display: flex;
+    justify-content: space-evenly;
+      
+    font-family: 'Times New Roman', Times, serif;
+    background-color:#97B5DD;
+}
+.about
+{
+    margin-top: 3rem;
+    opacity: 0.5;
+}
+.socialmedia
+{
+    background-color:#97B5DD;
+    display: flex;
+    justify-content: center;  
+}
+.social{
+    margin-left: 2rem;
+    margin-top: 3rem;
+    margin-bottom: 4rem;
+}
